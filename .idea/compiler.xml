@@ -9,8 +9,5 @@
         <module name="WheatherMap" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="WheatherMap" target="1.5" />
-    </bytecodeTargetLevel>
   </component>
 </project>
